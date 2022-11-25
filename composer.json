@@ -1,0 +1,19 @@
+{
+    "name": "shopeo/fake-mail",
+    "description": "Fake Mail",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shopeo\\FakeMail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SHOPEO",
+            "email": "hello@shopeo.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
